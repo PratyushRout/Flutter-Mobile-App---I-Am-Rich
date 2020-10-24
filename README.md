@@ -1,6 +1,8 @@
-# i_am_rich
+## i_am_rich
 
 A new Flutter application.
+
+A cross platform application build with Dart in Flutter. This is supported in both Android and iOS.
 
 ## Getting Started
 
